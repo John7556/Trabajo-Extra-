@@ -8,7 +8,8 @@
 
 2. MARCO TEÓRICO 
 
-![My First Board (1)](https://user-images.githubusercontent.com/93899720/150427189-7bb5a89e-1c4e-4c67-ae06-46eda0b9c4ad.jpg)
+![My First Board (2)](https://user-images.githubusercontent.com/93899720/150909133-316acfdb-be84-4013-988a-2408d8121bd5.jpg)
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
