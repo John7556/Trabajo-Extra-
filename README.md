@@ -73,3 +73,6 @@ Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen har
 
 7. BIBLIOGRAFÍA
 
+CIRCUITO DIMMER. (s. f.). ELECTRÓNICA Y MICROCONTROLADORES PICS. http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
+
+CIRCUITO DIMMER. (s. f.). ELECTRÓNICA Y MICROCONTROLADORES PICS. http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
