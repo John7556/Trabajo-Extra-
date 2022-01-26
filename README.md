@@ -25,9 +25,15 @@ Armamos el circuito dimmer que se muestra en la siguiente imagen:
 
 La linea superior e inferior seran las lineas para la corriente alterna. Utilizamos nuestra resistencia de 1 kilo ohmio y conectamos un extremo en un punto de la linea para corriente alterna y el otro extremo en un punto de la protoboard.Guiandonos en nustro diagrama puenteamos con un cable hacie el pin 2 del potenciometro.
 
+![image](https://user-images.githubusercontent.com/93899720/151250101-e3a29f50-d9e9-42d6-ae7d-09047bda5ab7.png)
 
-Con ayuda de un cable puenteamos el pin 3 del potenciometro ala parte derecha para tener mas espacio en la protoboard. AAhora muestro condensador ceramico colocamos un extremo en la linea nferior de corriente alterna y lo puenteamos con el cable que conecta con el pin 3 del potenciometro.
+![image](https://user-images.githubusercontent.com/93899720/151250115-bee5a83c-7c7d-459a-97b9-2a637840610b.png)
 
+Con ayuda de un cable puenteamos el pin 3 del potenciometro ala parte derecha para tener mas espacio en la protoboard. Ahora muestro condensador ceramico colocamos un extremo en la linea nferior de corriente alterna y lo puenteamos con el cable que conecta con el pin 3 del potenciometro.
+
+![image](https://user-images.githubusercontent.com/93899720/151249034-45462999-8546-43dd-bc84-2ada6cccbe1d.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151249053-4c1ff8ba-c718-4bc2-9adb-726e099e4df8.png)
 
 Con nuestro DIAC puenteamos de igual manera con el condensador y el puente que conecta hacia el pin numero 3 del potenciometro como se muetsra en la imagen. Con nuestra resistencia de 100 ohmios la conectamos en la misma linea que el otro extremo del DIAC como se muestra en la imagen.
 
