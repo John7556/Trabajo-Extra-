@@ -73,6 +73,8 @@ Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen har
 
 7. BIBLIOGRAFÍA
 
-CIRCUITO DIMMER. (s. f.). ELECTRÓNICA Y MICROCONTROLADORES PICS. http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
+Espinoza, I. (2022). Como hacer un Dimmer Electrónico con TRIAC y DIAC | Muy fácil paso a paso. Retrieved 26 January 2022, from http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
 
-CIRCUITO DIMMER. (s. f.). ELECTRÓNICA Y MICROCONTROLADORES PICS. http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
+Como hacer un dimmer electronico con DIAC y TRIAC, Paso a Paso en Protoboard. (2022). Retrieved 26 January 2022, from https://www.youtube.com/watch?v=-Q6ZaH_hCBc&t=725s
+
+ELECTRÓNICA PARA TODOS. (2022). Retrieved 26 January 2022, from https://www.electronicworld.com.mx/uncategorized/regulador-de-intensidad-dimmer-con-triac-y-diac/#:~:text=Un%20dimmer%20es%20un%20circuito,corriente%20alterna%2C%20ya%20sea%20de
