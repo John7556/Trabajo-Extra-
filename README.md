@@ -23,7 +23,7 @@ MATERIALES:
 Armamos el circuito dimmer que se muestra en la siguiente imagen: 
 
 
-La linea superior e inferior seran las lineas para la corriente alterna. Utilizamos nuestra resistencia de 1 kilo ohmio y conectamos un extremo en un punto de la linea para corriente alterna y el otro extremo en un punto de la protoboard. y guiandonos en nustro diagrama puenteamos con un cable hacie el pin 2 del potenciometro.
+La linea superior e inferior seran las lineas para la corriente alterna. Utilizamos nuestra resistencia de 1 kilo ohmio y conectamos un extremo en un punto de la linea para corriente alterna y el otro extremo en un punto de la protoboard.Guiandonos en nustro diagrama puenteamos con un cable hacie el pin 2 del potenciometro.
 
 
 Con ayuda de un cable puenteamos el pin 3 del potenciometro ala parte derecha para tener mas espacio en la protoboard. AAhora muestro condensador ceramico colocamos un extremo en la linea nferior de corriente alterna y lo puenteamos con el cable que conecta con el pin 3 del potenciometro.
@@ -32,8 +32,11 @@ Con ayuda de un cable puenteamos el pin 3 del potenciometro ala parte derecha pa
 Con nuestro DIAC puenteamos de igual manera con el condensador y el puente que conecta hacia el pin numero 3 del potenciometro como se muetsra en la imagen. Con nuestra resistencia de 100 ohmios la conectamos en la misma linea que el otro extremo del DIAC como se muestra en la imagen.
 
 
-Con ayuda de un cable puenteamos desde la linea del DIAC hacia la partede arriba de la protoboard conectando asi con el numero pin tres del TRIAC. Ahora con un cable de igal manera puenteamos dede el pin numero 1 del triac hacia la linea inferior de corriente alterna. aPor ultimo puenteamos nuestro pin numero dos del TRIAC con nuestra linea superior de corriente alterna quedando el circuito final como se muestra en la imagen.
+Con ayuda de un cable puenteamos desde la linea del DIAC hacia la partede arriba de la protoboard conectando asi con el numero pin tres del TRIAC. Ahora con un cable de igual manera puenteamos dede el pin numero 1 del triac hacia la linea inferior de corriente alterna.Por ultimo puenteamos nuestro pin numero dos del TRIAC con nuestra linea superior de corriente alterna quedando el circuito final como se muestra en la imagen.
 
+![image](https://user-images.githubusercontent.com/93899720/151245123-0fa5c709-3cfc-401a-aa87-361bec5c47b0.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151245156-dab6bd6b-1847-451d-aefd-02455eaee771.png)
 
 
 Comprobamos que haya continuidad en todo el circuito.
