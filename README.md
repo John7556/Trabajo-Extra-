@@ -53,6 +53,13 @@ Comprobamos que haya continuidad en todo el circuito.
 
 Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen haremos las debidas preubas con nuetro circuito. Conectamos el cable que viene desde la lampara en la linea superior de corriente alterna del protoboard y el cable que viene directo desde el enchufe para la corriente alterna lo conectamos en la linea inferior de alterna de nuestro protoboard quedando nuestro circuito de la siguiente manera.
 
+![image](https://user-images.githubusercontent.com/93899720/151253394-cda46947-649e-4a87-bb4a-4009809b8643.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151253364-6b2df9c1-9aab-4927-99cc-ee10043088a9.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151253381-44114386-5528-4d31-ac9a-c611ca008719.png)
+
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
