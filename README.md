@@ -31,6 +31,9 @@ Con ayuda de un cable puenteamos el pin 3 del potenciometro ala parte derecha pa
 
 Con nuestro DIAC puenteamos de igual manera con el condensador y el puente que conecta hacia el pin numero 3 del potenciometro como se muetsra en la imagen. Con nuestra resistencia de 100 ohmios la conectamos en la misma linea que el otro extremo del DIAC como se muestra en la imagen.
 
+![image](https://user-images.githubusercontent.com/93899720/151247105-033ff071-45cc-4f6c-af7e-a2b6c76ad1a5.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151247190-b32ff358-cc10-4789-b878-a81f4f2ae972.png)
 
 Con ayuda de un cable puenteamos desde la linea del DIAC hacia la partede arriba de la protoboard conectando asi con el numero pin tres del TRIAC. Ahora con un cable de igual manera puenteamos dede el pin numero 1 del triac hacia la linea inferior de corriente alterna.Por ultimo puenteamos nuestro pin numero dos del TRIAC con nuestra linea superior de corriente alterna quedando el circuito final como se muestra en la imagen.
 
