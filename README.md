@@ -1,10 +1,13 @@
 # Informe Trabajo Extra Construcción de un Circuito Dimmer para el control de la intensidad de un foco de 110v
 
-1. OBJETIVOS
+1. OBJETIVO GENERAL 
 
 * Formar un circuito el cual me permita la regulacion de la variacion de potencia en una bombilla.
 * Construir un circuito optimizado para tener el control de iluminacion de la bombilla.
-* Realizar el circuito con la menor cantidad de elementos posibles y sea una manera efectiva de hacerlo.
+
+1.2. OBJETIVO ESPECIFICO 
+
+* Realizar el circuito con la menor cantidad de elementos posibles y hacerlode una manera efectiva y que cumpla con nuestro objetivo general.
 
 2. MARCO TEÓRICO 
 
