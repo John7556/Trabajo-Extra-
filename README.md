@@ -22,6 +22,8 @@ MATERIALES:
 
 Armamos el circuito dimmer que se muestra en la siguiente imagen: 
 
+![image](https://user-images.githubusercontent.com/93899720/151257861-dfd83d22-b76c-4dfe-b9e2-5d6a8132469d.png)
+
 
 La linea superior e inferior seran las lineas para la corriente alterna. Utilizamos nuestra resistencia de 1 kilo ohmio y conectamos un extremo en un punto de la linea para corriente alterna y el otro extremo en un punto de la protoboard.Guiandonos en nustro diagrama puenteamos con un cable hacie el pin 2 del potenciometro.
 
