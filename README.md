@@ -18,7 +18,7 @@
 
 MATERIALES: 
 
-![image](https://user-images.githubusercontent.com/93899720/151230305-63d5733f-95c7-483c-8a3b-1ac4bdc8babf.png)
+![image](https://user-images.githubusercontent.com/93899720/151389100-80dd7494-a7d6-4911-957f-a10f5628f35e.png)
 
 Armamos el circuito dimmer que se muestra en la siguiente imagen: 
 
