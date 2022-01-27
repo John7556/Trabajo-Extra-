@@ -52,6 +52,19 @@ Con ayuda de un cable puenteamos desde la linea del DIAC hacia la partede arriba
 
 Comprobamos que haya continuidad en todo el circuito.
 
+![image](https://user-images.githubusercontent.com/93899720/151433677-f4a5cfb4-22d6-438c-86b1-7cfd8aa27fdf.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151433741-0ef7b68e-4aaa-4d53-9cd6-86cf7c9bf6cf.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151433789-e3634a9f-f209-46da-90ba-9110669b8938.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151433868-83814d67-5a5c-4823-b265-ac02bc3fc927.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151433940-d3c918a9-484e-4afe-ac97-dff2a3e63ad6.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151434073-eac09600-cbb7-4003-b394-a56af6f0c9b4.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151434164-a2787cd4-f02d-4393-83ea-1e9fce602945.png)
 
 Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen haremos las debidas preubas con nuetro circuito. Conectamos el cable que viene desde la lampara en la linea superior de corriente alterna del protoboard y el cable que viene directo desde el enchufe para la corriente alterna lo conectamos en la linea inferior de alterna de nuestro protoboard quedando nuestro circuito de la siguiente manera.
 
