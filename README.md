@@ -64,6 +64,10 @@ Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen har
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Después de haber comprobado que todas las conexiones en nuestro protoboard estén de la manera correcta procedemos a conectar los extremos del socket a nuestro protoboard la conexión de hace de la siguiente manera . El cable que proviene de nuestro foco de 110 V se conecta en el extremos superior de corriente alterna de nuestro protoboard mientras que el cable que vendrá directo de la corriente alterna va conectado a la línea inferior de alterna del protoboard osea en la misma línea del condensador 
+
+Después de realizar la conexión de socket con nuestro circuito en el protoboard procedemos a conectar el enchufe en el toma corriente para verificar el funcionamiento de nuestro circuito lo conectamos con las debidas precauciones del caso para evitar cualquier accidente. Comprobamos que nuestro circuito funciona de manera de manera óptima y cumple con los objetivos planteados inicialmente por lo que podemos concluir en el siguiente paso.
+
 
 5. VIDEO
 
