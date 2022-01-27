@@ -66,7 +66,7 @@ Comprobamos que haya continuidad en todo el circuito.
 
 ![image](https://user-images.githubusercontent.com/93899720/151434164-a2787cd4-f02d-4393-83ea-1e9fce602945.png)
 
-Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen haremos las debidas preubas con nuetro circuito. Conectamos el cable que viene desde la lampara en la linea superior de corriente alterna del protoboard y el cable que viene directo desde el enchufe para la corriente alterna lo conectamos en la linea inferior de alterna de nuestro protoboard quedando nuestro circuito de la siguiente manera.
+Con la ayuda de un socket y un foco de 110V mostrado en la siguiente imagen haremos las debidas preubas con nuetro circuito. Conectamos el cable que viene desde la lampara en la linea superior de corriente alterna del protoboard y el cable que viene directo desde el enchufe para la corriente alterna lo conectamos en la linea inferior de alterna de nuestro protoboard quedando nuestro circuito de la siguiente manera.
 
 ![image](https://user-images.githubusercontent.com/93899720/151253394-cda46947-649e-4a87-bb4a-4009809b8643.png)
 
@@ -77,10 +77,21 @@ Con la ayuda de un socket y un foco de 110V mostradoS en la siguiente imagen har
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-Después de haber comprobado que todas las conexiones en nuestro protoboard estén de la manera correcta procedemos a conectar los extremos del socket a nuestro protoboard la conexión de hace de la siguiente manera . El cable que proviene de nuestro foco de 110 V se conecta en el extremos superior de corriente alterna de nuestro protoboard mientras que el cable que vendrá directo de la corriente alterna va conectado a la línea inferior de alterna del protoboard osea en la misma línea del condensador 
+Después de haber comprobado que todas las conexiones en nuestro protoboard estén de la manera correcta procedemos a conectar los extremos del socket a nuestro protoboard la conexión de hace de la siguiente manera . El cable que proviene de nuestro foco de 110 V se conecta en el extremos superior de corriente alterna de nuestro protoboard mientras que el cable que vendrá directo de la corriente alterna va conectado a la línea inferior de alterna del protoboard osea en la misma línea del condensador.
+
+![image](https://user-images.githubusercontent.com/93899720/151444540-d0bb577e-079b-4d18-9f4e-19584d62240f.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151444696-de94f85b-f5f2-4a8d-8036-1be5eb51e5a6.png)
 
 Después de realizar la conexión de socket con nuestro circuito en el protoboard procedemos a conectar el enchufe en el toma corriente para verificar el funcionamiento de nuestro circuito lo conectamos con las debidas precauciones del caso para evitar cualquier accidente. Comprobamos que nuestro circuito funciona de manera de manera óptima y cumple con los objetivos planteados inicialmente por lo que podemos concluir en el siguiente paso.
 
+![image](https://user-images.githubusercontent.com/93899720/151444139-84d5e0fb-4c74-485a-ba53-2bb5e0472dd1.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151444169-2b82ccdb-cbbe-4b7d-9504-b9067fd2e6c8.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151444238-54ace626-a2b2-4718-8c8f-d2a5fc14d39f.png)
+
+![image](https://user-images.githubusercontent.com/93899720/151444290-2aae3dd5-a1b4-478b-af30-da0aeb9085cd.png)
 
 5. VIDEO
 
