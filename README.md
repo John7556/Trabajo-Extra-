@@ -2,12 +2,12 @@
 
 1. OBJETIVO GENERAL 
 
-* Formar un circuito el cual me permita la regulacion de la variacion de potencia en una bombilla.
-* Construir un circuito optimizado para tener el control de iluminacion de la bombilla.
+* Construir y omprender un circuito Dimmer el cual permita la regulacion de la variacion de potencia en una bombilla con una fuente de alimentacion de 110 voltios de corriente alterna.
 
 1.2. OBJETIVO ESPECIFICO 
 
-* Realizar el circuito con la menor cantidad de elementos posibles y hacerlode una manera efectiva y que cumpla con nuestro objetivo general.
+* Detallar y explicar la elaboracion del circuito diimer y las dificultades presentadas al elaborarlo.
+* Definir e indentificar el uso especifico de cada uno de los componentes y su importancia en el circuito al armarlo.
 
 2. MARCO TEÓRICO 
 
@@ -99,10 +99,9 @@ https://www.youtube.com/watch?v=hGZrC_z4CpI
 
 6. CONCLUSIONES
 
-* Podemos concluir que se logro nuestro objetivo de poder controlar y regular la iluminacion que produce una bombilla de 110 voltios con un circuito dimmer optimizado y que su funcionamiento sea eficiente esto gracias a los componenetes usados por lo que los escogio nien al momento incluirlos en el proyecto.
+* Se concluyo que conocer y detallar el funcionamiento de cada uno de los componentes usados es importante para la elaboracion del circuito ya que facilita el entendimiento de contruccion y conexionnes entre ellos demostrando asi por que ocurre la regulacion de potencia en el foco. 
 
-
-* Pudimos conocer un poco mas de la importancia de el circuito dimmer en el campo electrico ya que la regulacion de la variacion de instensidad y potencia de ciertos elementos electronicos ya que con ciertos elementos y con su debida regulacion se usan para hacer diferentes trabajos muy alejados uno del otro y esto se logra gracias al principio del circuito dimmer.
+* Se observo que los componentes mas importantes en el circuito fueron el diac el cual se uso para el funcionamiento del triac el que a su vez se utilizo para dejar pasar la corriente de salida cuando se aplica un pequeña corriente a su compuerta gate creando asi una regulacion de voltaje con el potencionetro.
 
 7. BIBLIOGRAFÍA
 
