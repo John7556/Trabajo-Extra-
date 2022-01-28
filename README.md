@@ -95,6 +95,7 @@ Después de realizar la conexión de socket con nuestro circuito en el protoboar
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=hGZrC_z4CpI
 
 6. CONCLUSIONES
 
