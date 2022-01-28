@@ -98,6 +98,10 @@ Después de realizar la conexión de socket con nuestro circuito en el protoboar
 
 6. CONCLUSIONES
 
+* Podemos concluir que se logro nuestro objetivo de poder controlar y regular la iluminacion que produce una bombilla de 110 voltios con un circuito dimmer optimizado y que su funcionamiento sea eficiente esto gracias a los componenetes usados por lo que los escogio nien al momento incluirlos en el proyecto.
+
+
+* Pudimos conocer un poco mas de la importancia de el circuito dimmer en el campo electrico ya que la regulacion de la variacion de instensidad y potencia de ciertos elementos electronicos ya que con ciertos elementos y con su debida regulacion se usan para hacer diferentes trabajos muy alejados uno del otro y esto se logra gracias al principio del circuito dimmer.
 
 7. BIBLIOGRAFÍA
 
