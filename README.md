@@ -6,7 +6,7 @@
 
 1.2. OBJETIVO ESPECIFICO 
 
-* Detallar y explicar la elaboracion del circuito diimer y las dificultades presentadas al elaborarlo.
+* Detallar y explicar la elaboracion del circuito diimer y las dificultades presentadas en su construccion.
 * Definir e indentificar el uso especifico de cada uno de los componentes y su importancia en el circuito al armarlo.
 
 2. MARCO TEÓRICO 
