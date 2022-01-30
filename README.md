@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=hGZrC_z4CpI
 
 6. CONCLUSIONES
 
-* Se concluyo que conocer y detallar el funcionamiento de cada uno de los componentes usados es importante para la elaboracion del circuito ya que facilita el entendimiento de contruccion y conexionnes entre ellos demostrando asi por que ocurre la regulacion de potencia en el foco. 
+* Se concluyo que conocer a detalle el funcionamiento de cada uno de los componentes usados es importante para la elaboracion del circuito ya que facilita el entendimiento de contruccion y conexionnes entre ellos demostrando asi por que ocurre la regulacion de potencia en el foco. 
 
 * Se observo que los componentes mas importantes en el circuito fueron el diac el cual se uso para el funcionamiento del triac el que a su vez se utilizo para dejar pasar la corriente de salida cuando se aplica un pequeña corriente a su compuerta gate creando asi una regulacion de voltaje con el potencionetro.
 
